@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ReyPris&color=C2F750&style=flat-square&label=ACCESS_LOG&label_color=0E1A27" alt="Views" />
+  <img src="https://img.shields.io/badge/ACCESS_LOG-464-C2F750?style=flat-square&labelColor=0E1A27" alt="Views" />
 </p>
 
 </div>
