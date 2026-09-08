@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=1000&color=C2F750&center=true&vCenter=true&width=580&lines=>_%20Full-Stack+Web+Development+%26+E-Commerce;>_%20FastAPI+%2B+React+%2B+PostgreSQL+solutions;>_%20Telegram+MiniApps+%2B+Warehouse+automation;>_%20Autonomous+AI+Agents+%2B+LLM+Pipelines" alt="Terminal" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ACCESS_LOG-464-C2F750?style=flat-square&labelColor=0E1A27" alt="Views" />
-</p>
+
 
 </div>
 
